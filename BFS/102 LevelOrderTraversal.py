@@ -1,3 +1,5 @@
+# O(n) time
+# O(n) space on the queue
 class Solution(object):
     def levelOrder(self, root):
         result = []
