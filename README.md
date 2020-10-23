@@ -1,12 +1,15 @@
 # LeetCode-Solutions
 A place to store LeetCode solutions to help track my progress and consistency. This repo is focused on learning all the LC patterns/tricks. Nearly all the problems on LC can be solved by knowing about 14 different patterns. Multiple questions are solved with the same patterns. 
 
-*Solutions are done in Python because Python is by far the best interview language since it is less wordy than other languages. for example, in Java to make a hashmap you need
+*Solutions are done in Python because Python is by far the best interview language since it is less wordy than other languages. For example, let's compare creating a map in Java vs Python.
+    
+    Java...
     Map<String, String> myMap  = new HashMap<String, String>()
     
     Python...
-    myMap = {} 
-    As you can see, it saves a lot of time knowing python.
+    myMap = {}
+    
+As you can see, it saves a lot of time knowing python and interviews are timed!
     
 
 # BFS...
