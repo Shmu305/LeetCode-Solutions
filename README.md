@@ -1,7 +1,11 @@
 https://emre.me/coding-patterns/sliding-window/ - educative.io 'sneak peak' of each pattern
+
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - broad overview of classic patterns
+
 https://seanprashad.com/leetcode-patterns/ - WebSite based on educative.io course 
+
 https://github.com/SeanPrashad/leetcode-patterns - more tips/tricks for pattern recognition including solutions 
+
 https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU - Blind 75 list - The most important list?
 
 # LeetCode-Solutions
