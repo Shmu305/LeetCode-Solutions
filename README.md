@@ -1,4 +1,4 @@
-https://emre.me/coding-patterns/sliding-window/ - educative.io 'sneak peak' of each pattern
+https://emre.me/categories/#coding-patterns - educative.io 'sneak peak' of each pattern
 
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - broad overview of classic patterns
 
