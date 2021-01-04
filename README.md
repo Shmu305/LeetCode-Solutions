@@ -27,4 +27,4 @@ In BFS, we start by pushing the root node into a queue. Then, we remove an eleme
 If you look at my solutions under the BFS folder, you will see that each problem has an identical solution. Depending on the question asked, only slight modifications were needed. 
 
 # Sliding Window
-A sliding window is an abstract concept commonly used in array/string problems. A window is a range of elements in the array/string which usually defined by the start and end indices. The idea is to increase the window until contraints are met. Then remove the first elements in the window while the contrains are still met and 'slide' the window-start up for each index thats removed.
+A sliding window is an abstract concept commonly used in array/string problems. A window is a range of elements in the array/string which usually defined by the start and end indices. The idea is to increase the window until specified constraints are met. Then, start removing the first elements in the window while the contrains are still met and 'slide' the window-start up for each index thats removed.
