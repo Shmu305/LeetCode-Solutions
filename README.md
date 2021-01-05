@@ -2,11 +2,11 @@ https://emre.me/categories/#coding-patterns - educative.io 'sneak peak' of each 
 
 https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed - broad overview of classic patterns
 
-https://seanprashad.com/leetcode-patterns/ - WebSite based on educative.io course 
+https://seanprashad.com/leetcode-patterns/ - WebSite based on educative.io course, with LC problems sorted by patterns
 
 https://github.com/SeanPrashad/leetcode-patterns - more tips/tricks for pattern recognition including solutions 
 
-https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU - Blind 75 list - The most important list?
+https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU - Blind 75 list - The most important list? Possibly. 
 
 # LeetCode-Solutions
 A place to store LeetCode solutions to help track my progress and consistency. This repo is focused on learning all the LC patterns/tricks. Nearly all the problems on LC can be solved by knowing about 16 different patterns. Multiple questions are solved with the same patterns. 
@@ -19,7 +19,7 @@ A place to store LeetCode solutions to help track my progress and consistency. T
     Python...
     myMap = {}
     
-As you can see, it saves a lot of time knowing python and interviews are timed!
+As you can see, it saves a lot of time knowing python. Interviews are timed, so learn python to save time! *this is not a paid ad :)
     
 
 # BFS...
@@ -27,4 +27,4 @@ In BFS, we start by pushing the root node into a queue. Then, we remove an eleme
 If you look at my solutions under the BFS folder, you will see that each problem has an identical solution. Depending on the question asked, only slight modifications were needed. 
 
 # Sliding Window
-A sliding window is an abstract concept commonly used in array/string problems. A window is a range of elements in the array/string which usually defined by the start and end indices. The idea is to increase the window until specified constraints are met. Then, start removing the first elements in the window while the contrains are still met and 'slide' the window-start up for each index thats removed.
+A sliding window is an abstract concept commonly used in array/string problems. A window is a range of elements in the array/string which usually defined by the start and end indices. The idea is to increase the window until specified constraints are met. Then, start removing the first elements (leftmost) in the window while the constraints are still met. Then, 'slide' the window-start (left pointer) up for each index thats removed.
