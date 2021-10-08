@@ -8,6 +8,8 @@ https://github.com/SeanPrashad/leetcode-patterns - more tips/tricks for pattern 
 
 https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-100-LeetCode-Questions-to-Save-Your-Time-OaM1orEU - Blind 75 list - The most important list? Possibly. 
 
+https://techinterviewhandbook.org/best-practice-questions/
+
 # LeetCode-Solutions
 A place to store LeetCode solutions to help track my progress and consistency. This repo is focused on learning all the LC patterns/tricks. Nearly all the problems on LC can be solved by knowing about 16 different patterns. Multiple questions are solved with the same patterns. 
 
