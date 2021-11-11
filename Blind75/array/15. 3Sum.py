@@ -1,5 +1,5 @@
-# Time: O(n^2)
-# Space: O(n)
+# Time: O(n^2) an improvement on the O(n^3) brute force solution
+# Space: O(1) maybe O(n) depending in library
 class Solution(object):
     def threeSum(self, nums):
         res = []
