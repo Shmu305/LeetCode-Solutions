@@ -1,3 +1,5 @@
+ Time: O(n)
+ Space: O(1)
  def reverseList(self, head):
         """
         :type head: ListNode
